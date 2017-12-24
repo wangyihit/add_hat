@@ -1,0 +1,7 @@
+common.h
+rgbimage.cpp
+rgbimage.h
+settings.cpp
+settings.h
+Makefile
+main.cpp
